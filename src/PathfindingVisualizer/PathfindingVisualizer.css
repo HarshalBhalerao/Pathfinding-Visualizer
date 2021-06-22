@@ -1,0 +1,14 @@
+.grid {
+  margin: 100px 0 0;
+}
+.background{
+  background-color: white;
+}
+.Wrapper{
+  max-width:90%;
+  margin:auto;
+
+}
+.rowWrapper{
+  display: flex;
+}
